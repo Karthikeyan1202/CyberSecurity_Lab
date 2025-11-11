@@ -49,11 +49,6 @@ This course covers a range of essential cybersecurity domains through practical,
 
 Here is an overview of the files and reports included in this repository. All files are linked for easy navigation.
 
-* 📂 **[Script&Codes/](./Script&Codes/)**
-    * 📜 [nmap_scan.sh](./Script&Codes/nmap_scan.sh)
-    * 📜 [vpnserver.c](./Script&Codes/vpnserver.c)
-    * 📜 [vpnclient.c](./Script&Codes/vpnclient.c)
-    * 📜 [local.rules](./Script&Codes/local.rules)
 * 📄 [Exploring Tools in Kali Linux.pdf](./Exploring%20Tools%20in%20Kali%20Linux.pdf)
 * 📄 [Nmap Command Exploration.pdf](./Nmap%20Command%20Exploration.pdf)
 * 📄 [Nmap Scripting and Nessus Scanning.pdf](./Nmap%20Scripting%20and%20Nessus%20Scanning.pdf)
