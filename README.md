@@ -1,7 +1,7 @@
 # Cyber Security Lab (24CYS682)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvUHhK4/giphy.gif" width="60%">
+  <img src="https://media.giphy.com/media/WFhWcgKj2I16U/giphy.gif" width="100%">
 </p>
 
 <p align="center">
