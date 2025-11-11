@@ -1,12 +1,7 @@
-# Cyber Security Lab (24CYS682)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WFhWcgKj2I16U/giphy.gif" width="100%">
-</p>
-
+# Cyber Security Lab
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/last--commit-up_to_date-green" alt="Last Commit"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
+
   <a href="#"><img src="https://img.shields.io/badge/files-assignments-orange" alt="Files"></a>
 </p>
 
@@ -47,6 +42,27 @@ This course covers a range of essential cybersecurity domains through practical,
 * **Network Tunneling:** Creating secure VPNs using TUN/TAP drivers.
 * **Social Engineering:** Simulating phishing and other attacks with the SEToolkit.
 * **Windows Exploitation:** Understanding and executing the EternalBlue exploit.
+
+---
+
+## 📂 Repository Structure
+
+Here is an overview of the files and reports included in this repository. All files are linked for easy navigation.
+
+* 📂 **[Script&Codes/](./Script&Codes/)**
+    * 📜 [nmap_scan.sh](./Script&Codes/nmap_scan.sh)
+    * 📜 [vpnserver.c](./Script&Codes/vpnserver.c)
+    * 📜 [vpnclient.c](./Script&Codes/vpnclient.c)
+    * 📜 [local.rules](./Script&Codes/local.rules)
+* 📄 [Exploring Tools in Kali Linux.pdf](./Exploring%20Tools%20in%20Kali%20Linux.pdf)
+* 📄 [Nmap Command Exploration.pdf](./Nmap%20Command%20Exploration.pdf)
+* 📄 [Nmap Scripting and Nessus Scanning.pdf](./Nmap%20Scripting%20and%20Nessus%20Scanning.pdf)
+* 📄 [Snort Intrusion Detection Configuration.pdf](./Snort%20Intrusion%20Detection%20Configuration.pdf)
+* 📄 [LAN-Based Attacks Analysis (DoS, SSL Stripping, ARP Poisoning).pdf](./LAN-Based%20Attacks%20Analysis%20(DoS,%20SSL%20Stripping,%20ARP%20Poisoning).pdf)
+* 📄 [Metasploit Penetration Testing.pdf](./Metasploit%20Penetration%20Testing.pdf)
+* 📄 [Windows Exploitation Using EternalBlue (MS17-010).pdf](./Windows%20Exploitation%20Using%20EternalBlue%20(MS17-010).pdf)
+* 📄 [Social Engineering Attacks Using SEToolkit.pdf](./Social%20Engineering%20Attacks%20Using%20SEToolkit.pdf)
+* 📄 [Virtual Private Network (VPN) Configuration and Tunneling.pdf](./Virtual%20Private%20Network%20(VPN)%20Configuration%20and%20Tunneling.pdf)
 
 ---
 
