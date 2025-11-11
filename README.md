@@ -1,8 +1,7 @@
-# Cyber Security Lab
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/last--commit-up_to_date-green" alt="Last Commit"></a>
+# Cyber Security Lab 
 
-  <a href="#"><img src="https://img.shields.io/badge/files-assignments-orange" alt="Files"></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8STYpGGRrFF3FBc/giphy.gif" alt="Cyber Security Lab Animation" width="60%">
 </p>
 
 ---
@@ -26,7 +25,7 @@ This lab course provides hands-on experience with a variety of industry-standard
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C Language"/>
-  <img src="https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
+  <img src="httpshttps://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
 </p>
 
 ---
@@ -48,6 +47,17 @@ This course covers a range of essential cybersecurity domains through practical,
 ## 📂 Repository Structure
 
 Here is an overview of the files and reports included in this repository. All files are linked for easy navigation.
+
+* 📂 **[Script&Codes/](./Script&Codes/)**
+    * 📂 **[Nmap_Exploration/](./Script&Codes/Nmap_Exploration/)**
+        * 📜 [nmap_commands.sh](./Script&Codes/Nmap_Exploration/nmap_commands.sh)
+    * 📂 **[Nmap_Scripting_and_Nessus/](./Script&Codes/Nmap_Scripting_and_Nessus/)**
+        * 📜 [nmap_scan.sh](./Script&Codes/Nmap_Scripting_and_Nessus/nmap_scan.sh)
+    * 📂 **[Snort_Config/](./Script&Codes/Snort_Config/)**
+        * 📜 [local.rules](./Script&Codes/Snort_Config/local.rules)
+    * 📂 **[VPN_Tunnel/](./Script&Codes/VPN_Tunnel/)**
+        * 📜 [vpnclient.c](./Script&Codes/VPN_Tunnel/vpnclient.c)
+        * 📜 [vpnserver.c](./Script&Codes/VPN_Tunnel/vpnserver.c)
 
 * 📄 [Exploring Tools in Kali Linux.pdf](./Exploring%20Tools%20in%20Kali%20Linux.pdf)
 * 📄 [Nmap Command Exploration.pdf](./Nmap%20Command%20Exploration.pdf)
