@@ -4,7 +4,7 @@
 <br/>
 
 
-### *Scan • Exploit • Detect • Defend*
+
 
 ---
 
