@@ -1,4 +1,4 @@
-<div align="center">
+
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,30&height=180&section=header&text=Cyber%20Security%20Lab&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Cyber Security Lab Header"/>
 <br/>
