@@ -25,7 +25,7 @@ This lab course provides hands-on experience with a variety of industry-standard
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C Language"/>
-  <img src="httpshttps://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
+  <img src="https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
 </p>
 
 ---
@@ -46,28 +46,29 @@ This course covers a range of essential cybersecurity domains through practical,
 
 ## 📂 Repository Structure
 
-Here is an overview of the files and reports included in this repository. All files are linked for easy navigation.
+Here is an overview of the files and reports included in this repository.
 
-* 📂 **[Script&Codes/](./Script&Codes/)**
-    * 📂 **[Nmap_Exploration/](./Script&Codes/Nmap_Exploration/)**
-        * 📜 [nmap_commands.sh](./Script&Codes/Nmap_Exploration/nmap_commands.sh)
-    * 📂 **[Nmap_Scripting_and_Nessus/](./Script&Codes/Nmap_Scripting_and_Nessus/)**
-        * 📜 [nmap_scan.sh](./Script&Codes/Nmap_Scripting_and_Nessus/nmap_scan.sh)
-    * 📂 **[Snort_Config/](./Script&Codes/Snort_Config/)**
-        * 📜 [local.rules](./Script&Codes/Snort_Config/local.rules)
-    * 📂 **[VPN_Tunnel/](./Script&Codes/VPN_Tunnel/)**
-        * 📜 [vpnclient.c](./Script&Codes/VPN_Tunnel/vpnclient.c)
-        * 📜 [vpnserver.c](./Script&Codes/VPN_Tunnel/vpnserver.c)
-
-* 📄 [Exploring Tools in Kali Linux.pdf](./Exploring%20Tools%20in%20Kali%20Linux.pdf)
-* 📄 [Nmap Command Exploration.pdf](./Nmap%20Command%20Exploration.pdf)
-* 📄 [Nmap Scripting and Nessus Scanning.pdf](./Nmap%20Scripting%20and%20Nessus%20Scanning.pdf)
-* 📄 [Snort Intrusion Detection Configuration.pdf](./Snort%20Intrusion%20Detection%20Configuration.pdf)
-* 📄 [LAN-Based Attacks Analysis (DoS, SSL Stripping, ARP Poisoning).pdf](./LAN-Based%20Attacks%20Analysis%20(DoS,%20SSL%20Stripping,%20ARP%20Poisoning).pdf)
-* 📄 [Metasploit Penetration Testing.pdf](./Metasploit%20Penetration%20Testing.pdf)
-* 📄 [Windows Exploitation Using EternalBlue (MS17-010).pdf](./Windows%20Exploitation%20Using%20EternalBlue%20(MS17-010).pdf)
-* 📄 [Social Engineering Attacks Using SEToolkit.pdf](./Social%20Engineering%20Attacks%20Using%20SEToolkit.pdf)
-* 📄 [Virtual Private Network (VPN) Configuration and Tunneling.pdf](./Virtual%20Private%20Network%20(VPN)%20Configuration%20and%20Tunneling.pdf)
+| File / Directory | Description |
+| :--- | :--- |
+| 📂 **[Script&Codes/](./Script&Codes/)** | Directory for all lab scripts and configuration files. |
+| &nbsp;&nbsp;&nbsp; 📂 **[Nmap\_Exploration/](./Script&Codes/Nmap_Exploration/)** | Scripts related to Nmap command exploration. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 [nmap\_commands.sh](./Script&Codes/Nmap_Exploration/nmap_commands.sh) | Example Nmap command script. |
+| &nbsp;&nbsp;&nbsp; 📂 **[Nmap\_Scripting\_and\_Nessus/](./Script&Codes/Nmap_Scripting_and_Nessus/)** | Scripts for advanced Nmap scanning. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 [nmap\_scan.sh](./Script&Codes/Nmap_Scripting_and_Nessus/nmap_scan.sh) | Nmap NSE script examples. |
+| &nbsp;&nbsp;&nbsp; 📂 **[Snort\_Config/](./Script&Codes/Snort_Config/)** | Configuration files for the Snort IDS. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 [local.rules](./Script&Codes/Snort_Config/local.rules) | Custom Snort intrusion detection rules. |
+| &nbsp;&nbsp;&nbsp; 📂 **[VPN\_Tunnel/](./Script&Codes/VPN_Tunnel/)** | C code for implementing a simple VPN. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 [vpnclient.c](./Script&Codes/VPN_Tunnel/vpnclient.c) | Source code for the VPN client. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 [vpnserver.c](./Script&Codes/VPN_Tunnel/vpnserver.c) | Source code for the VPN server. |
+| 📄 [Exploring Tools in Kali Linux.pdf](./Exploring%20Tools%20in%20Kali%20Linux.pdf) | Lab Report: Introduction to Kali Linux tools. |
+| 📄 [Nmap Command Exploration.pdf](./Nmap%20Command%20Exploration.pdf) | Lab Report: In-depth Nmap command usage. |
+| 📄 [Nmap Scripting and Nessus Scanning.pdf](./Nmap%20Scripting%20and%20Nessus%20Scanning.pdf) | Lab Report: Using Nmap scripts and Nessus. |
+| 📄 [Snort Intrusion Detection Configuration.pdf](./Snort%20Intrusion%20Detection%20Configuration.pdf) | Lab Report: Setting up and configuring Snort. |
+| 📄 [LAN-Based Attacks Analysis...pdf](./LAN-Based%20Attacks%20Analysis%20(DoS,%20SSL%20Stripping,%20ARP%20Poisoning).pdf) | Lab Report: DoS, SSL Stripping, and ARP Poisoning. |
+| 📄 [Metasploit Penetration Testing.pdf](./Metasploit%20Penetration%20Testing.pdf) | Lab Report: Penetration testing with Metasploit. |
+| 📄 [Windows Exploitation Using EternalBlue...pdf](./Windows%20Exploitation%20Using%20EternalBlue%20(MS17-010).pdf) | Lab Report: Exploiting MS17-010 (EternalBlue). |
+| 📄 [Social Engineering Attacks Using SEToolkit.pdf](./Social%20Engineering%20Attacks%20Using%20SEToolkit.pdf) | Lab Report: Using the Social-Engineer Toolkit. |
+| 📄 [Virtual Private Network (VPN) Configuration...pdf](./Virtual%20Private%20Network%20(VPN)%20Configuration%20and%20Tunneling.pdf) | Lab Report: VPN configuration and tunneling. |
 
 ---
 
