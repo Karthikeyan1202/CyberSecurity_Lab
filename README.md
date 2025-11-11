@@ -6,22 +6,55 @@
 # 🔐 **Cyber Security Lab **  
 ### *Scan • Exploit • Detect • Defend*
 
-</div>
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://kali.org)
-[![Nmap](https://img.shields.io/badge/Nmap-FF642B?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
-[![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=Tenable&logoColor=white)](https://www.tenable.com/products/nessus)
-[![Snort](https://img.shields.io/badge/Snort-D1302A?style=for-the-badge&logo=snort&logoColor=white)](https://www.snort.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2A3C52?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![C Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C)](https://en.cppreference.com/w/c)
-[![EternalBlue](https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010)
-
-</div>
-
 ---
 
+## 🛠️ Tools & Technologies Spotlight
+
+This lab course provides hands-on experience with a variety of industry-standard cybersecurity tools and technologies.
+
+<p align="center">
+  <a href="https://kali.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  </a>
+  &nbsp;
+  <a href="https://nmap.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nmap-FF642B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus"/>
+  </a>
+  &nbsp;
+  <a href="https://www.snort.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Snort-D1302A?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
+  </a>
+  &nbsp;
+  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Metasploit-2A3C52?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  </a>
+  &nbsp;
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  </a>
+  &nbsp;
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C Language"/>
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
+  </a>
+  &nbsp;
+  <a href="./Virtual%20Private%20Network%20(VPN)%20Configuration%20and%20Tunneling.pdf" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VPN_Tunnel-F7941D?style=for-the-badge&logo=openvpn&logoColor=white" alt="VPN Tunneling"/>
+  </a>
+</p>
+
+---
 ## Overview
 
 This repository contains **lab reports, executable scripts, and configuration files** for the **Cyber Security Lab (24CYS682)**. It provides a structured, hands-on approach to learning **network scanning, vulnerability assessment, intrusion detection, penetration testing, and secure tunneling**.
