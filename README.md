@@ -1,7 +1,12 @@
 <div align="center">
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,30&height=180&section=header&text=Cyber%20Security%20Lab&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Cyber Security Lab Header"/>
+<br/>
 
-# Cyber Security Lab (24CYS682)  
-### *Hands-on Offensive & Defensive Security Mastery*
+# 🔐 **Cyber Security Lab **  
+### *Scan • Exploit • Detect • Defend*
+
+</div>
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://kali.org)
 [![Nmap](https://img.shields.io/badge/Nmap-FF642B?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
