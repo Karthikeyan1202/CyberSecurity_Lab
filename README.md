@@ -1,99 +1,73 @@
-
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,30&height=180&section=header&text=Cyber%20Security%20Lab&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Cyber Security Lab Header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,30&height=180&section=header&text=Cyber%20Security%20Lab&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Cyber Security Lab Header"/>
+</p>
 <br/>
 
 ---
 
-## 🛠️ Tools & Technologies Spotlight
-
-This lab course provides hands-on experience with a variety of industry-standard cybersecurity tools and technologies.
-
 <p align="center">
-  <a href="https://kali.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  </a>
-  &nbsp;
-  <a href="https://nmap.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nmap-FF642B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus"/>
-  </a>
-  &nbsp;
-  <a href="https://www.snort.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Snort-D1302A?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
-  </a>
-  &nbsp;
-  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Metasploit-2A3C52?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  </a>
-  &nbsp;
-  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  </a>
-  &nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </a>
-  &nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C Language"/>
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
-  </a>
-  &nbsp;
-  <a href="./Virtual%20Private%20Network%20(VPN)%20Configuration%20and%20Tunneling.pdf" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VPN_Tunnel-F7941D?style=for-the-badge&logo=openvpn&logoColor=white" alt="VPN Tunneling"/>
-  </a>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-FF642B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Snort-D1302A?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A3C52?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C Language"/>
+  <img src="https://img.shields.io/badge/EternalBlue-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="EternalBlue"/>
+  <img src="https://img.shields.io/badge/VPN_Tunnel-F7941D?style=for-the-badge&logo=openvpn&logoColor=white" alt="VPN Tunneling"/>
 </p>
 
 ---
-## Overview
 
-This repository contains **lab reports, executable scripts, and configuration files** for the **Cyber Security Lab (24CYS682)**. It provides a structured, hands-on approach to learning **network scanning, vulnerability assessment, intrusion detection, penetration testing, and secure tunneling**.
+## 🚀 Welcome to the Cyber Security Lab 
 
-All exercises are designed for **educational use in isolated lab environments** using **Kali Linux** and virtual machines.
-
----
-
-## Tools & Technologies
-
-| Tool | Purpose |
-|------|--------|
-| **Kali Linux** | Primary platform for offensive security |
-| **Nmap** | Host discovery and service enumeration |
-| **Nessus** | Vulnerability scanning and reporting |
-| **Snort** | Network intrusion detection system |
-| **Metasploit** | Exploitation and post-exploitation framework |
-| **Wireshark** | Packet capture and traffic analysis |
-| **SEToolkit** | Social engineering attack simulation |
-| **C + TUN/TAP** | Custom VPN implementation |
-| **EternalBlue** | MS17-010 SMB vulnerability exploitation |
+This repository is your all-in-one resource for mastering hands-on cybersecurity skills using real-world tools and attack/defense methodologies. Perfect for students, self-learners, and aspiring security professionals.
 
 ---
 
-## Lab Topics
+## 📚 What You'll Find Here
 
-| Lab | Focus |
-|-----|-------|
-| Network Scanning | Nmap command variations and scripting |
-| Vulnerability Analysis | Nessus scan policies and result interpretation |
-| Intrusion Detection | Snort rule writing and real-time alerts |
-| Penetration Testing | Metasploit modules and payload delivery |
-| Network Tunneling | Build a simple VPN using TUN/TAP in C |
-| Social Engineering | Phishing and credential harvesting |
-| Windows Exploitation | EternalBlue (MS17-010) exploit walkthrough |
-| LAN-Based Attacks | DoS, ARP Poisoning, SSL Stripping |
+- **Lab Reports**: Step-by-step practicals with explanations.
+- **Scripts & Code**: Automation for scanning, tunneling, and simulations.
+- **Configurations**: Ready-to-use Snort rules, VPN setups, and more.
+- **Resource PDFs**: Detailed guides to all key topics and tools.
 
 ---
-## Conclusion
-This lab equips you with practical, job-ready cybersecurity skills through structured exercises and real-world tools. By completing these labs, you gain the ability to detect, exploit, and defend against common attack vectors — a solid foundation for a career in ethical hacking, penetration testing, or security operations.
 
-## Repository Structure
+## 🛠️ Technologies & Tools
+
+| Tool            | Use Case                                    |
+|-----------------|---------------------------------------------|
+| **Kali Linux**  | Primary OS for offensive security           |
+| **Nmap**        | Network discovery & service enumeration     |
+| **Nessus**      | Vulnerability scanning & reporting          |
+| **Snort**       | Network intrusion detection (NIDS)          |
+| **Metasploit**  | Exploit dev, attack simulation, post-exploit|
+| **Wireshark**   | Packet capture & protocol analysis          |
+| **SEToolkit**   | Social engineering attack simulation        |
+| **C + TUN/TAP** | Custom VPN/protocol implementation          |
+| **EternalBlue** | Exploiting MS17-010 SMB vulnerability       |
+
+---
+
+## 🧪 Lab Modules
+
+| Lab                         | What You'll Practice                                   |
+|-----------------------------|-------------------------------------------------------|
+| 🛰️ **Network Scanning**     | Nmap command variations, custom scripts                |
+| 🔍 **Vulnerability Analysis**| Nessus scan use, parsing/reporting results             |
+| 🚨 **Intrusion Detection**  | Snort rule writing & live alerting                     |
+| 💥 **Penetration Testing**  | Metasploit frameworks, payload delivery                |
+| 🔒 **Network Tunneling**    | Building a minimalist VPN (C/TUN-TAP)                  |
+| 🎭 **Social Engineering**   | Using SEToolkit for phishing & credential harvesting    |
+| 💻 **Windows Exploitation** | EternalBlue (MS17-010) exploit walk-through           |
+| 🌐 **LAN-Based Attacks**    | DoS, ARP Poisoning, SSL Stripping simulations          |
+
+---
+
+## 🏗️ Repository Structure
 
 ```bash
 Cyber-Security-Lab-24CYS682/
@@ -117,5 +91,34 @@ Cyber-Security-Lab-24CYS682/
 ├── Windows Exploitation Using EternalBlue (MS17-010).pdf
 ├── Social Engineering Attacks Using SEToolkit.pdf
 └── Virtual Private Network (VPN) Configuration and Tunneling.pdf
+```
 
+---
 
+## 👨‍💻 How to Use This Repo
+
+1. **Clone the repo** and open in your favorite IDE.
+2. **Read the PDFs** for background and instructions.
+3. **Run scripts/configs** inside VMs (never on production machines).
+4. **Try, break, fix, repeat!** Learn by actually doing.
+
+> **Note:** All labs require isolated/networked VMs, ideally using Kali Linux and target/test VMs to safely practice attacks and defenses.
+
+---
+
+## 🏁 Why This Lab?
+
+- Build foundational, job-ready skills for roles in **pentesting**, **SOC analysis**, and **security engineering**
+- Practice both classic and modern attack vectors using real-world tools
+- Develop both attacker and defender mindsets by cycling through exploitation and mitigation scenarios
+- Prepare for industry certifications (CEH, OSCP, CompTIA Security+) with practical exposure
+
+---
+
+## ⚡ Start Exploring!
+
+Whether you're prepping for certifications or building skills for a cybersecurity career, these labs will get you hands-on and ready for real-world challenges.
+
+> **Happy Hacking! Stay Ethical. Always Learn.**
+
+---
